@@ -3,20 +3,23 @@
 /* ===== CSS VARIABLES ===== */
 :root {
   /* Modern Corporate Palette */
+  /* Refined Palette: White, Blue, Green */
   --bg-primary: #FFFFFF;
-  --bg-secondary: #F8FAFC;
-  --bg-tertiary: #F1F5F9;
+  --bg-secondary: #F0F9FF;
+  /* Very light blue */
+  --bg-tertiary: #ECFDF5;
+  /* Very light green */
 
-  --text-primary: #0F172A;
-  /* Deep Navy */
-  --text-secondary: #475569;
-  /* Slate */
-  --text-muted: #94A3B8;
+  --text-primary: #0C4A6E;
+  /* Marine Blue */
+  --text-secondary: #334155;
+  --text-muted: #64748B;
 
-  --accent-primary: #0F172A;
-  --accent-secondary: #06B6D4;
-  /* Impactful Cyan */
-  --accent-soft: rgba(6, 182, 212, 0.08);
+  --accent-primary: #0C4A6E;
+  /* Marine Blue */
+  --accent-secondary: #10B981;
+  /* Emeraude Green */
+  --accent-soft: rgba(16, 185, 129, 0.1);
 
   --border-color: #E2E8F0;
 
