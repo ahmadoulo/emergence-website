@@ -1,0 +1,9 @@
+services:
+  website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: emergence-website
+    ports:
+      - "8096:80"
+    restart: always

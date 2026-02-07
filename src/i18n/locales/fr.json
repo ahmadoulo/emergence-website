@@ -1,0 +1,379 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "expertises": "Expertises",
+        "methodology": "Méthodologie",
+        "publications": "Publications",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Architectes de l'Émergence Économique",
+        "subtitle": "Transformez vos défis stratégiques en trajectoires de croissance mesurable. 20 ans d'excellence au service des nations et des entreprises.",
+        "stats": "200+ Missions Réussies | Partner ONU & Banque Mondiale",
+        "cta": "Évaluation Stratégique",
+        "ctaSecondary": "Nos Expertises"
+    },
+    "home": {
+        "slogan": "L'excellence à tout prix",
+        "trustBadges": {
+            "title": "Ils nous font confiance",
+            "subtitle": "Partenaires institutionnels de premier plan"
+        },
+        "aboutSection": {
+            "title": "Pourquoi Choisir Emergence Consulting Group",
+            "description": "Créé en 2001 par Moubarack LO, notre cabinet accompagne les administrations et les entreprises à trouver des solutions innovantes et adaptées à leurs besoins. Nous sommes spécialisés dans les études économiques, statistiques et la planification stratégique.",
+            "stats": {
+                "experience": "23 Ans",
+                "projects": "200+ Missions",
+                "countries": "15 Pays",
+                "impact": "Excellence"
+            }
+        },
+        "valueProps": {
+            "title": "Notre Promesse",
+            "items": [
+                {
+                    "title": "Rigueur Scientifique",
+                    "description": "Une approche basée sur des données probantes et une neutralité absolue dans nos interventions.",
+                    "icon": "shield"
+                },
+                {
+                    "title": "Intégrité Totale",
+                    "description": "Les plus hautes normes de conduite professionnelle pour maintenir la confiance de nos clients.",
+                    "icon": "award"
+                },
+                {
+                    "title": "Esprit d'Équipe",
+                    "description": "Un travail en réseau permettant de tirer le meilleur parti de toutes les compétences disponibles.",
+                    "icon": "users"
+                },
+                {
+                    "title": "Professionnalisme",
+                    "description": "Une veille constante sur l'évolution des connaissances pour des décisions éclairées.",
+                    "icon": "briefcase"
+                }
+            ]
+        },
+        "testimonials": {
+            "title": "Témoignages",
+            "items": [
+                {
+                    "quote": "Emergence a facilité tout le processus de rédaction du DSRP du Mali, incluant le verdissement de la stratégie.",
+                    "author": "Partenaire Institutionnel",
+                    "position": " · Gouvernement",
+                    "country": "Mali"
+                },
+                {
+                    "quote": "Une double compétence, sectorielle et technique, qui apporte une réelle dimension conseil aux projets.",
+                    "author": "Client Public",
+                    "position": " · Administration",
+                    "country": "Sénégal"
+                }
+            ]
+        },
+        "caseStudies": {
+            "title": "Résultats & Impact",
+            "featured": [
+                {
+                    "title": "Programme de Développement CEDEAO",
+                    "client": "CEDEAO",
+                    "challenge": "Concevoir un programme communautaire de développement et un cadre stratégique pour la période 2016-2020.",
+                    "results": [
+                        "Rédaction du Programme communautaire de développement",
+                        "Élaboration du Cadre stratégique 2016-2020",
+                        "Rapport d'évaluation des 40 ans de la CEDEAO",
+                        "Suivi de la politique de convergence institutionnelle"
+                    ]
+                },
+                {
+                    "title": "Indicateurs ODD",
+                    "client": "Nations Unies / CEA",
+                    "challenge": "Proposer des indicateurs robustes pour les Objectifs de Développement Durable.",
+                    "results": [
+                        "Proposition d'indicateurs ODD adaptés",
+                        "Rédaction d'un Manuel sur les Indicateurs de Développement",
+                        "Définition d'indicateurs incluant l'environnement et le climat"
+                    ]
+                }
+            ]
+        },
+        "ctaSection": {
+            "title": "Prêt à Solliciter une Évaluation ?",
+            "button": "Solliciter une Évaluation",
+            "urgency": "Réponse sous 24h",
+            "guarantee": "Confidentialité strictement garantie"
+        }
+    },
+    "expertises": {
+        "title": "Nos Services & Expertises",
+        "subtitle": "Trois pôles d'expertise au service d'une vision commune",
+        "poles": {
+            "strategy": {
+                "title": "Stratégie de Développement",
+                "description": "Accompagnement dans la planification stratégique et les politiques publiques.",
+                "problem": "Nécessité de cadrage stratégique et de vision prospective pour les nations et institutions.",
+                "solution": "Conception de politiques sectorielles, plans stratégiques et stratégies de réduction de la pauvreté.",
+                "benefits": [
+                    "Plan stratégique robuste",
+                    "Politiques sectorielles cohérentes",
+                    "Programme politique structuré",
+                    "Aide à la décision éclairée"
+                ],
+                "kpis": {
+                    "kpi1": {
+                        "label": "Satisfaction",
+                        "value": "100%"
+                    },
+                    "kpi2": {
+                        "label": "Impact",
+                        "value": "Excellence"
+                    }
+                }
+            },
+            "stats": {
+                "title": "Études Socio-économiques & Statistiques",
+                "description": "Ingénierie de données et monographies économiques.",
+                "problem": "Vos décisions stratégiques manquent de données fiables et d'analyses rigoureuses pour évaluer leur impact réel.",
+                "solution": "Réalisation d'enquêtes, études d'impact, monographies nationales et analyses statistiques.",
+                "benefits": [
+                    "Données statistiques fiables",
+                    "Études d'impact rigoureuses",
+                    "Diagnostic socio-économique précis",
+                    "Monographies détaillées"
+                ],
+                "kpis": {
+                    "kpi1": {
+                        "label": "Précision",
+                        "value": "Rigueur"
+                    },
+                    "kpi2": {
+                        "label": "Impact",
+                        "value": "Réel"
+                    }
+                }
+            },
+            "it": {
+                "title": "Technologies de l'Information",
+                "description": "SI de gestion et communication.",
+                "problem": "Optimisation des processus de gestion et de communication via les outils numériques.",
+                "solution": "Mise en place d'ERP/MRP, indicateurs de performance, tableaux de bord et veille informationnelle.",
+                "benefits": [
+                    "Tableaux de bord de pilotage",
+                    "Systèmes de gestion intégrée (ERP)",
+                    "Audit de non qualité (CNQ)",
+                    "Transformation digitale"
+                ],
+                "kpis": {
+                    "kpi1": {
+                        "label": "Efficacité",
+                        "value": "Optimisée"
+                    },
+                    "kpi2": {
+                        "label": "Fiabilité",
+                        "value": "Totale"
+                    }
+                }
+            }
+        },
+        "sectors": {
+            "title": "Nos Secteurs d'Activités",
+            "items": [
+                "Agro-alimentaire",
+                "Banque, Microfinance & Ingénierie Financière",
+                "Secteur Public & Institutions",
+                "PME / PMI",
+                "Télécommunications & NTIC"
+            ]
+        },
+        "managementDomains": {
+            "title": "Domaines d'Intervention",
+            "items": {
+                "dev": "Gestion du développement (PND, Politiques sectorielles)",
+                "management": "Conseil en management (Diagnostic, Gestion du changement)",
+                "org": "Organisation d'entreprise (Structure, Performance, RH)",
+                "process": "Gestion des processus et de l'innovation (Qualité, Productivité)",
+                "rh": "Gestion et développement des ressources humaines (Recrutement, Carrière)",
+                "si": "Systèmes d'information (ERP, Benchmarking, Veille)",
+                "marketing": "Marketing et distribution (Sondage de satisfaction, Fidélisation)"
+            }
+        },
+        "supervision": {
+            "title": "Supervision & Qualité",
+            "description": "La supervision ascendante est assurée à chaque échelon.",
+            "roles": [
+                {
+                    "title": "Directeur Mission",
+                    "text": "Responsable global et interlocuteur principal du client."
+                },
+                {
+                    "title": "Chef de Projet",
+                    "text": "Coordination des travaux sur le terrain."
+                },
+                {
+                    "title": "Équipe de Consultants",
+                    "text": "Exécution des travaux techniques spécifiques."
+                }
+            ]
+        }
+    },
+    "about": {
+        "title": "Qui Sommes Nous",
+        "intro": "Accompagner les administrations et les entreprises.",
+        "presentation": "Emergence Consulting Group a pour vocation d’accompagner les administrations et les entreprises à trouver des solutions innovantes et adaptées à leurs besoins. Spécialisé dans les études économiques et statistiques, et dans la planification stratégique.",
+        "founder": {
+            "title": "Notre Fondateur",
+            "text": "Créée en 2001 par Moubarack LO, Ingénieur statisticien économiste. Ancien élève de l'ENSAE-CESD (Paris), de l'IEP de Paris, de l'ENA Paris et de Harvard (KSG). Expert pour le PNUD, la Banque Mondiale, l'Union Africaine et la BAD."
+        },
+        "vision": {
+            "title": "Notre Mission & Vision",
+            "content": "Notre mission est de contribuer à faire de l’émergence économique et sociale une réalité dans les pays en développement. La performance de nos clients est l’ultime baromètre de notre action."
+        },
+        "director": {
+            "bio": "Moubarack LO a contribué à la conception de la stratégie de développement de plusieurs pays de l'Afrique de l'Ouest. Auteur de « Le Sénégal émergent : agenda pour le futur » et concepteur de l'Indice Synthétique de l'Émergence.",
+            "expertise_list": [
+                "Expert Organisations Internationales (PNUD, BM, UA, BAD)",
+                "Maître de conférences (ENA Sénégal, UGB)",
+                "Ingénieur Statisticien Économiste",
+                "Planification Stratégique & Prospective"
+            ]
+        },
+        "principles": {
+            "title": "Nos Principes d'Excellence",
+            "items": {
+                "rigor": {
+                    "title": "Rigueur",
+                    "description": "Objectivité et diligence pour assurer la pertinence et la neutralité de nos interventions."
+                },
+                "integrity": {
+                    "title": "Intégrité",
+                    "description": "Hautes normes de conduite et maintien de la confiance de nos clients."
+                },
+                "team": {
+                    "title": "Esprit d'Équipe",
+                    "description": "Travail en réseau pour tirer le meilleur parti de toutes les compétences disponibles."
+                },
+                "pro": {
+                    "title": "Professionnalisme",
+                    "description": "Avis documentés pour une prise de décision éclairée."
+                }
+            }
+        },
+        "team": {
+            "title": "Équipe Dirigeante",
+            "members": [
+                {
+                    "name": "Amaye SY",
+                    "position": "Directeur Exécutif",
+                    "role": "Ingénieur Statisticien Économiste"
+                },
+                {
+                    "name": "Moussa DIAW",
+                    "position": "Manager",
+                    "role": "Démographe, Statisticien"
+                }
+            ]
+        }
+    },
+    "methodology": {
+        "title": "Notre Approche Méthodologique",
+        "subtitle": "Conceptualisation et expérimentation avec succès",
+        "intro": "Notre approche repose sur la compréhension parfaite de l'objectif, l'évaluation prospective et l'identification des actions prioritaires.",
+        "steps": {
+            "comprehension": {
+                "title": "Compréhension de l'Objectif",
+                "description": "Conditions de compréhension parfaite des besoins."
+            },
+            "audit": {
+                "title": "Évaluation du Cadre",
+                "description": "Travail minutieux d'évaluation de l'objet de mission."
+            },
+            "prospective": {
+                "title": "Vision Prospective",
+                "description": "Dégager des orientations stratégiques majeures."
+            },
+            "action": {
+                "title": "Actions Prioritaires",
+                "description": "Recommandations hiérarchisées en termes de priorités."
+            }
+        }
+    },
+    "projects": {
+        "title": "Quelques Projets Réalisés",
+        "items": [
+            {
+                "client": "CEA (ONU)",
+                "mission": "Indicateurs pour les Objectifs de Développement Durable"
+            },
+            {
+                "client": "PNUD",
+                "mission": "Revue du PND 2011-2015 et élaboration du PND 2016-2020"
+            },
+            {
+                "client": "CEDEAO",
+                "mission": "Élaboration du Cadre stratégique 2016-2020 & Programme de développement"
+            },
+            {
+                "client": "Union Africaine",
+                "mission": "Modération d'Atelier sur la Reconstruction Post-Conflit (Centrafrique)"
+            },
+            {
+                "client": "BAD",
+                "mission": "Rédaction de la Stratégie conjointe d’Assistance Pays (Mali)"
+            },
+            {
+                "client": "Présidence Sénégal",
+                "mission": "Elaboration du Schéma directeur de l’Etat"
+            },
+            {
+                "client": "FAO",
+                "mission": "Evaluation de la Programmation des Bureaux Pays"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Nous Contacter",
+        "subtitle": "Solliciter une évaluation pour vos enjeux stratégiques",
+        "form": {
+            "name": "Prénom & Nom",
+            "namePlaceholder": "Ex: Jean Dupont",
+            "organization": "Organisation",
+            "orgPlaceholder": "Ex: Ministère du Développement",
+            "email": "Email professionnel",
+            "emailPlaceholder": "email@organisation.com",
+            "subject": "Objet de la Consultation",
+            "message": "Votre Message / Défis",
+            "msgPlaceholder": "Décrivez brièvement vos enjeux stratégiques...",
+            "submit": "Solliciter une Évaluation",
+            "success": "Demande envoyée. Nous reviendrons vers vous sous 24h.",
+            "error": "Échec de l'envoi. Veuillez réessayer."
+        },
+        "info": {
+            "title": "Siège Social - Dakar",
+            "address": "B.P. 5730 Dakar FANN, Sénégal",
+            "phone": "T: +221 33 800 00 00",
+            "email": "E: contact@emergence-consulting.sn",
+            "hours": "Lundi - Vendredi : 08h30 - 18h00",
+            "hoursSat": "Samedi : Sur rendez-vous uniquement",
+            "seal": "Confidentialité Garantie",
+            "sealText": "Toutes nos consultations sont soumises à une clause stricte de non-divulgation."
+        }
+    },
+    "footer": {
+        "description": "L'excellence à tout prix. Conseil stratégique depuis 2001.",
+        "links": {
+            "title": "Navigation"
+        },
+        "contact": {
+            "title": "Coordonnées"
+        },
+        "social": {
+            "title": "Réseaux"
+        },
+        "copyright": "© 2024 Emergence Consulting Group. Tous droits réservés."
+    },
+    "language": {
+        "fr": "FR",
+        "en": "EN"
+    }
+}

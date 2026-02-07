@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "expertises": "Expertises",
+        "methodology": "Methodology",
+        "publications": "Publications",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Architects of Economic Emergence",
+        "subtitle": "Transform your strategic challenges into measurable growth trajectories. 20 years of excellence serving nations and enterprises.",
+        "stats": "200+ Successful Missions | Partner UN & World Bank",
+        "cta": "Strategic Evaluation",
+        "ctaSecondary": "Our Expertises"
+    },
+    "home": {
+        "slogan": "Excellence at all costs",
+        "trustBadges": {
+            "title": "They Trust Us",
+            "subtitle": "Leading institutional partners"
+        },
+        "aboutSection": {
+            "title": "Why Choose Emergence Consulting Group",
+            "description": "Founded in 2001 by Moubarack LO, our firm supports administrations and companies in finding innovative solutions adapted to their needs. We specialize in economic studies, statistics, and strategic planning.",
+            "stats": {
+                "experience": "23 Years",
+                "projects": "200+ Missions",
+                "countries": "15 Countries",
+                "impact": "Excellence"
+            }
+        },
+        "valueProps": {
+            "title": "Our Promise",
+            "items": [
+                {
+                    "title": "Scientific Rigor",
+                    "description": "An approach based on evidence and absolute neutrality in our scientific interventions.",
+                    "icon": "shield"
+                },
+                {
+                    "title": "Total Integrity",
+                    "description": "The highest standards of professional conduct to maintain client trust.",
+                    "icon": "award"
+                },
+                {
+                    "title": "Team Spirit",
+                    "description": "Networked work to make the best use of all available skills.",
+                    "icon": "users"
+                },
+                {
+                    "title": "Professionalism",
+                    "description": "Constant monitoring of knowledge evolution for informed decision making.",
+                    "icon": "briefcase"
+                }
+            ]
+        },
+        "testimonials": {
+            "title": "Testimonials",
+            "items": [
+                {
+                    "quote": "Emergence facilitated the entire process of drafting the Mali PRSP, including the greening of the strategy.",
+                    "author": "Institutional Partner",
+                    "position": " · Government",
+                    "country": "Mali"
+                },
+                {
+                    "quote": "A double competence, sectoral and technical, that brings a real consulting dimension to projects.",
+                    "author": "Public Client",
+                    "position": " · Administration",
+                    "country": "Senegal"
+                }
+            ]
+        },
+        "caseStudies": {
+            "title": "Results & Impact",
+            "featured": [
+                {
+                    "title": "ECOWAS Development Program",
+                    "client": "ECOWAS",
+                    "challenge": "Design a community development program and a strategic framework for the 2016-2020 period.",
+                    "results": [
+                        "Drafting of the Community Development Program",
+                        "Elaboration of the 2016-2020 Strategic Framework",
+                        "40-year assessment report for ECOWAS",
+                        "Monitoring of institutional convergence policy"
+                    ]
+                },
+                {
+                    "title": "SDG Indicators",
+                    "client": "United Nations / ECA",
+                    "challenge": "Propose robust indicators for the Sustainable Development Goals.",
+                    "results": [
+                        "Proposal of adapted SDG indicators",
+                        "Drafting a Manual on Development Indicators",
+                        "Definition of indicators including environment and climate"
+                    ]
+                }
+            ]
+        },
+        "ctaSection": {
+            "title": "Ready to Request an Evaluation?",
+            "button": "Request an Evaluation",
+            "urgency": "Response within 24h",
+            "guarantee": "Strict confidentiality guaranteed"
+        }
+    },
+    "expertises": {
+        "title": "Our Services & Expertises",
+        "subtitle": "Three poles of expertise serving a common vision",
+        "poles": {
+            "strategy": {
+                "title": "Development Strategy",
+                "description": "Support in strategic planning and national public policies.",
+                "problem": "Need for strategic framing and prospective vision for nations and institutions.",
+                "solution": "Design of sectoral policies, strategic plans, and poverty reduction strategies.",
+                "benefits": [
+                    "Robust strategic plan",
+                    "Coherent sectoral policies",
+                    "Structured political program",
+                    "Informed decision support"
+                ],
+                "kpis": {
+                    "kpi1": {
+                        "label": "Satisfaction",
+                        "value": "100%"
+                    },
+                    "kpi2": {
+                        "label": "Impact",
+                        "value": "Excellence"
+                    }
+                }
+            },
+            "stats": {
+                "title": "Socio-economic & Statistical Studies",
+                "description": "Data engineering and economic monographs.",
+                "problem": "Your strategic decisions lack reliable data and rigorous analysis to assess their real impact.",
+                "solution": "Surveys, impact studies, national monographs, and statistical analyses.",
+                "benefits": [
+                    "Reliable statistical data",
+                    "Rigorous impact studies",
+                    "Accurate socio-economic diagnosis",
+                    "Detailed monographs"
+                ],
+                "kpis": {
+                    "kpi1": {
+                        "label": "Precision",
+                        "value": "Rigor"
+                    },
+                    "kpi2": {
+                        "label": "Impact",
+                        "value": "Real"
+                    }
+                }
+            },
+            "it": {
+                "title": "Information Technologies",
+                "description": "Management IS and communication.",
+                "problem": "Optimization of management and communication processes via digital tools.",
+                "solution": "Implementation of ERP/MRP, performance indicators, dashboards, and competitive intelligence.",
+                "benefits": [
+                    "Management dashboards",
+                    "Integrated management systems (ERP)",
+                    "Non-quality audit (CNQ)",
+                    "Digital transformation"
+                ],
+                "kpis": {
+                    "kpi1": {
+                        "label": "Efficiency",
+                        "value": "Optimized"
+                    },
+                    "kpi2": {
+                        "label": "Reliability",
+                        "value": "Total"
+                    }
+                }
+            }
+        },
+        "sectors": {
+            "title": "Our Sectors of Activity",
+            "items": [
+                "Agri-food",
+                "Banking, Microfinance & Financial Engineering",
+                "Public Sector & Institutions",
+                "SME / SMI",
+                "Telecommunications & NTIC"
+            ]
+        },
+        "managementDomains": {
+            "title": "Fields of Intervention",
+            "items": {
+                "dev": "Development management (PND, Sectoral policies)",
+                "management": "Management consulting (Diagnosis, Change management)",
+                "org": "Business organization (Structure, Performance, HR)",
+                "process": "Process and innovation management (Quality, Productivity)",
+                "rh": "HR development (Recruitment, Career)",
+                "si": "Information systems (ERP, Benchmarking, Intelligence)",
+                "marketing": "Marketing and distribution (Satisfaction survey, Loyalty)"
+            }
+        }
+    },
+    "about": {
+        "title": "Who We Are",
+        "intro": "Supporting administrations and enterprises.",
+        "presentation": "Emergence Consulting Group's vocation is to accompany administrations and companies in finding innovative solutions adapted to their needs. Specialized in economic and statistical studies, and in strategic planning.",
+        "founder": {
+            "title": "Our Founder",
+            "text": "Created in 2001 by Moubarack LO, Economic Statistician Engineer. Graduate of ENSAE-CESD (Paris), IEP Paris, ENA Paris, and Harvard (KSG). Expert for UNDP, World Bank, African Union, and ADB."
+        },
+        "vision": {
+            "title": "Our Mission & Vision",
+            "content": "Our mission is to contribute to making economic and social emergence a reality in developing countries. Our clients' performance is the ultimate barometer of our action."
+        },
+        "director": {
+            "bio": "Moubarack LO has contributed to the design of the development strategy of several West African countries. Author of 'Emerging Senegal: Agenda for the Future' and designer of the Synthetic Emerging Index.",
+            "expertise_list": [
+                "Expert International Organizations (UNDP, WB, AU, ADB)",
+                "Lecturer (ENA Senegal, UGB)",
+                "Economic Statistician Engineer",
+                "Strategic Planning & Foresight"
+            ]
+        },
+        "principles": {
+            "title": "Our Excellence Principles",
+            "items": {
+                "rigor": {
+                    "title": "Rigor",
+                    "description": "Objectivity and diligence to ensure the relevance and neutrality of our interventions."
+                },
+                "integrity": {
+                    "title": "Integrity",
+                    "description": "High standards of conduct and maintaining our clients' trust."
+                },
+                "team": {
+                    "title": "Team Spirit",
+                    "description": "Networked work to make the best use of all available skills."
+                },
+                "pro": {
+                    "title": "Professionalism",
+                    "description": "Documented opinions for informed decision making."
+                }
+            }
+        },
+        "team": {
+            "title": "Leadership Team",
+            "members": [
+                {
+                    "name": "Amaye SY",
+                    "position": "Executive Director",
+                    "role": "Economic Statistician Engineer"
+                },
+                {
+                    "name": "Moussa DIAW",
+                    "position": "Manager",
+                    "role": "Demographer, Statistician"
+                }
+            ]
+        }
+    },
+    "methodology": {
+        "title": "Our Methodological Approach",
+        "subtitle": "Successful conceptualization and experimentation",
+        "intro": "Our approach is based on perfect understanding of the objective, prospective evaluation, and identification of priority actions.",
+        "steps": {
+            "comprehension": {
+                "title": "Understanding the Objective",
+                "description": "Conditions for perfect understanding of needs."
+            },
+            "audit": {
+                "title": "Framework Evaluation",
+                "description": "Meticulous work evaluating the mission object."
+            },
+            "prospective": {
+                "title": "Prospective Vision",
+                "description": "Developing major strategic orientations."
+            },
+            "action": {
+                "title": "Priority Actions",
+                "description": "Ranked recommendations in terms of priorities."
+            }
+        }
+    },
+    "projects": {
+        "title": "Selected Projects",
+        "items": [
+            {
+                "client": "ECA (UN)",
+                "mission": "Indicators for Sustainable Development Goals"
+            },
+            {
+                "client": "UNDP",
+                "mission": "Review of PND 2011-2015 and drafting of PND 2016-2020"
+            },
+            {
+                "client": "ECOWAS",
+                "mission": "Elaboration of the 2016-2020 Strategic Framework & dev program"
+            },
+            {
+                "client": "African Union",
+                "mission": "Moderation of Workshop on Post-Conflict Reconstruction (CAR)"
+            },
+            {
+                "client": "ADB",
+                "mission": "Drafting of Joint Country Assistance Strategy (Mali)"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Request an evaluation for your strategic challenges",
+        "form": {
+            "name": "First & Last Name",
+            "namePlaceholder": "e.g. Jean Dupont",
+            "organization": "Organization",
+            "orgPlaceholder": "e.g. Ministry of Development",
+            "email": "Professional Email",
+            "emailPlaceholder": "email@organization.com",
+            "subject": "Consultation Subject",
+            "message": "Your Message / Challenges",
+            "msgPlaceholder": "Briefly describe your strategic challenges...",
+            "submit": "Request an Evaluation",
+            "success": "Request sent. We will get back to you within 24h.",
+            "error": "Failed to send. Please try again."
+        },
+        "info": {
+            "title": "Headquarters - Dakar",
+            "address": "B.P. 5730 Dakar FANN, Senegal",
+            "phone": "T: +221 33 800 00 00",
+            "email": "E: contact@emergence-consulting.sn",
+            "hours": "Mon - Fri: 08:30 - 18:00",
+            "hoursSat": "Sat: By appointment only",
+            "seal": "Confidentiality Guaranteed",
+            "sealText": "All our consultations are subject to a strict non-disclosure clause."
+        }
+    },
+    "footer": {
+        "description": "Excellence at all costs. Strategic consulting since 2001.",
+        "links": {
+            "title": "Navigation"
+        },
+        "contact": {
+            "title": "Contact"
+        },
+        "social": {
+            "title": "Social"
+        },
+        "copyright": "© 2024 Emergence Consulting Group. All rights reserved."
+    },
+    "language": {
+        "fr": "FR",
+        "en": "EN"
+    }
+}

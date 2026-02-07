@@ -1,0 +1,62 @@
+.pub-hero {
+    padding: 10rem 0 5rem;
+    text-align: center;
+}
+
+.pub-card-v2 {
+    background: var(--bg-primary);
+    padding: 3rem;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-color);
+    transition: all var(--transition-base);
+    display: flex;
+    flex-direction: column;
+}
+
+.pub-card-v2:hover {
+    border-color: var(--accent-secondary);
+    box-shadow: var(--shadow-xl);
+}
+
+.pub-tag {
+    color: var(--accent-secondary);
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    margin-bottom: 1.5rem;
+}
+
+.pub-card-v2 h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.pub-footer {
+    margin-top: auto;
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pub-year {
+    font-weight: 700;
+    color: var(--text-muted);
+}
+
+.pub-btn {
+    background: none;
+    border: none;
+    color: var(--accent-secondary);
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+    .pub-card-v2 {
+        padding: 2rem;
+    }
+}
